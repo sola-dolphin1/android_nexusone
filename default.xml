@@ -155,7 +155,7 @@
   <project path="external/vim" name="CyanogenMod/android_external_vim" revision="master" />
   <project path="external/yaffs2" name="CyanogenMod/android_external_yaffs2" />
   <project path="external/zlib" name="CyanogenMod/android_external_zlib" />
-  <project path="frameworks/base" name="CyanogenMod/android_frameworks_base" />
+  <project path="frameworks/base" name="sola-dolphin1/nexusone_frameworks_base" revision="refs/heads/ics" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" remote="aosp" revision="refs/tags/android-4.0.1_r1.2" />
   <project path="frameworks/compile/linkloader" name="platform/frameworks/compile/linkloader" remote="aosp" revision="refs/tags/android-4.0.1_r1.2" />
   <project path="frameworks/compile/slang" name="CyanogenMod/android_frameworks_compile_slang" />
@@ -170,7 +170,7 @@
   <project path="hardware/broadcom/wlan" name="CyanogenMod/android_hardware_broadcom_wlan" />
   <project path="hardware/cm" name="CyanogenMod/android_hardware_cm" />
   <project path="hardware/invensense" name="platform/hardware/invensense" remote="aosp" revision="refs/tags/android-4.0.1_r1.2" />
-  <project path="hardware/libhardware" name="CyanogenMod/android_hardware_libhardware" />
+  <project path="hardware/libhardware" name="sola-dolphin1/nexusone_hardware_libhardware" revision="refs/heads/ics" />
   <project path="hardware/libhardware_legacy" name="CyanogenMod/android_hardware_libhardware_legacy" />
   <project path="hardware/msm7k" name="CyanogenMod/android_hardware_msm7k" />
   <project path="hardware/qcom/display" name="CyanogenMod/android_hardware_qcom_display" />
@@ -253,7 +253,7 @@
   <project path="device/htc/common" name="ics-passion-dev/android_device_htc_common" revision="refs/heads/ics-starter" />
   <project path="device/htc/passion-common" name="ics-passion-dev/android_device_htc_passion-common" revision="refs/heads/ics-starter" />
   <project path="device/htc/passion" name="ics-passion-dev/android_device_htc_passion" revision="refs/heads/ics-starter" />
-  <project path="packages/apps/CMSettings" name="Pedlar/android_packages_apps_CMSettings" />
+  <project path="packages/apps/UsbMassStorage" name="ics-passion-dev/net.bexton.android.UsbMassStorageToggle" revision="refs/heads/master" />
 
   <project path="android" name="ics-passion-dev/android" />
 </manifest>
